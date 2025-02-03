@@ -48,5 +48,5 @@ Backpack Price Predictor is a machine learning project that uses Linear Regressi
 This project is licensed under the MIT License.
 
 ## Author
-[Your Name]
+Nikita Verma
 
